@@ -1,0 +1,8 @@
+.buildlog/
+.dart_tool/
+.packages
+.idea/
+.vscode/
+build/
+ios/Pods/
+.flutter_plugin_dep.yaml
